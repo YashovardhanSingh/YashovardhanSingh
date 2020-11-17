@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-
-- 🌱 I’m currently learning ...
-1. How to create your own Programming Language.
-2. Django
-3. React
-
 [![My github stats](https://github-readme-stats.vercel.app/api?username=YashovardhanSingh)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashovardhanSingh)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YashovardhanSingh/YashovardhanSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
