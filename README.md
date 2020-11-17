@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=YashovardhanSingh)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YashovardhanSingh&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashovardhanSingh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **YashovardhanSingh/YashovardhanSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
