@@ -22,7 +22,7 @@ print('yashovardhan');
 printf("yashovardhan\n");
 std::cout << "yashovardhan" << '\n';
 System.out.println("yashovardhan");
-Console.WriteLine("Hello, world!");
+Console.WriteLine("yashovardhan");
 fmt.Println("yashovardhan")
 console.log('yashovardhan');
 echo "yashovardhan";
