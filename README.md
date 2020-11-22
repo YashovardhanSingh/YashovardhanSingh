@@ -15,3 +15,15 @@ I am a self-learner
 <!-- ![Yashovardhan's github stats](https://github-readme-stats.vercel.app/api?username=YashovardhanSingh&show_icons=true&theme=tokyonight) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashovardhanSingh)](https://github.com/anuraghazra/github-readme-stats) 
+
+```
+print('yashovardhan')
+print('yashovardhan');
+printf("yashovardhan\n");
+std::cout << "yashovardhan" << '\n';
+System.out.println("yashovardhan");
+Console.WriteLine("Hello, world!");
+fmt.Println("yashovardhan")
+console.log('yashovardhan');
+echo "yashovardhan";
+```
