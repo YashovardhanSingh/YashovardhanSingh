@@ -3,7 +3,7 @@
 I am a self-learner
 
 - 🔭 I’m currently working in TheNewBoston.
-- 🌱 I’m currently learning Everything.
+- 🌱 I’m currently learning Python, Javascript.
 - 👯 I’m looking to collaborate for any good Project.
 - 🤔 I’m looking for help with - How to make Programming Languages?
 - 💬 Ask me about Python, Flutter, HTML, CSS, Javascript.
